@@ -1,0 +1,8 @@
+id: opecha:P000001
+initial_creation_type: ocr
+source: bdr:W22083
+
+major_versions:
+  - raw-ocr:
+    - commit: https://github.com/OpenPecha/P000003/commit/5563836e818880aef9689ca37828c53d152e4acc
+    - description: Google OCR
