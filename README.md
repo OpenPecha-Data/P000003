@@ -2,7 +2,7 @@
 - author
 
 ## Downloads:
-- plain text
+- [plain text](https://github.com/OpenPecha/P000003/releases/download/v01/3.zip)
 
 ## Layers:
 - pagination
