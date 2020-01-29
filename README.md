@@ -1,5 +1,5 @@
 # བཀའ་འགྱུར ༼སྟོག་ཕོ་བྲང་བྲིས་མ།）
-- 
+- author
 
 ## Source: 
 From : [BDRC](https://www.tbrc.org/?locale=bo#!rid=W22083)
