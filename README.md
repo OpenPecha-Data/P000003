@@ -1,7 +1,7 @@
 ## བཀའ་འགྱུར ༼སྟོག་ཕོ་བྲང་བྲིས་མ།）
 
 ### Downloads:
-- [plain text](https://github.com/OpenPecha/P000003/releases/download/v01/3.zip)
+[Plain Text](https://github.com/OpenPecha/P000003/releases/download/v01/3.zip)
 
 ### Layers:
 - pagination
