@@ -1,10 +1,10 @@
-id: opecha:P000003
+id: P000003
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W22083
   title: བཀའ་འགྱུར། ༼ཧེ་མིས་བྲིས་མ།༽
   author: ''
-  volumes:
+  volumes:{}
 
 major_versions:
   - raw-ocr:
